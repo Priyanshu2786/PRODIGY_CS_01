@@ -1,1 +1,1 @@
-# PRODIGY_CS_01
+This project focuses on developing a cipher test designed to assess encryption and decryption techniques within the field of cybersecurity. The test evaluates various algorithms, including symmetric and asymmetric encryption, highlighting their strengths and vulnerabilities. Through practical exercises and challenges, users can gain hands-on experience with cryptographic principles, enhancing their understanding of data security. This project aims to reinforce the importance of secure communication and the role of ciphers in protecting sensitive information.
